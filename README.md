@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning expressJs
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me s.r.gayakwad02@gmail.com
-- ⚡ Hobbies are like Travel with friends and going to spiritual places
 
 <!---
 sachin142322/sachin142322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
